@@ -10,9 +10,11 @@ The backend is developed with Flask, the frontend with React, and MongoDB is use
  + Scikit-learn
  + PyMongo
  + Pickle
+
 🔹Frontend
   * React.js
   + Axios
+
 🔹Database
   *MongoDB
 
